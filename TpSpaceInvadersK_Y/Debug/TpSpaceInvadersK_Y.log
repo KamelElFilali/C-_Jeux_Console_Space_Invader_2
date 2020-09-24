@@ -1,0 +1,12 @@
+﻿  Coord.cpp
+  ExtraTerrestre.cpp
+  Laser.cpp
+  Martien.cpp
+  SpaceMain.cpp
+c:\users\kelfilal\onedrive\introduction a la programmation oriente objet isi\tp\tp-spaceinvader2\spacemain.cpp(59): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Vaisseau.cpp
+  UIKit.cpp
+c:\users\kelfilal\onedrive\introduction a la programmation oriente objet isi\tp\uikit\uikit.cpp(107): warning C4838: la conversion de 'int' en 'SHORT' requiert une conversion restrictive
+  Mouvement.cpp
+  Génération de code en cours...
+  TpSpaceInvadersK_Y.vcxproj -> C:\Users\kelfilal\OneDrive\Introduction a la Programmation Oriente Objet ISI\TP\TpSpaceInvadersK_Y\Debug\TpSpaceInvadersK_Y.exe
